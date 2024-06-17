@@ -101,6 +101,7 @@ git clone https://github.com/audacity/audacity.git
 
 # Optional: You may want to check out specific tag here, such as Audacity-3.4.2
 # If so, replace <Audacity_Tag> in following command with tag.
+# For instance, there is currently an issue building against the latest Audacity code. To build correctly replace <Audacity_Tag> with Audacity-3.5.1
 cd audacity
 git checkout <Audacity_Tag>
 cd ..
